@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '{\"systemMessage\":\"Step complete - remember to commit and push your changes to git before moving on.\"}'",
+            "shell": "bash"
+          }
+        ]
+      }
+    ]
+  }
+}
