@@ -11,8 +11,8 @@ _Last updated: 2026-06-29_
 - [x] Scaffold Vite React (JS) project
 - [x] Install deps (`react-router-dom`, `axios`, `lucide-react`, `tailwindcss`, `@tailwindcss/vite`)
 - [x] Wire Tailwind v4 (vite plugin + `@import "tailwindcss";` in `index.css`)
-- [ ] Strip Vite boilerplate
-- [ ] Define brand-red theme token
+- [x] Strip Vite boilerplate
+- [x] Define brand-red theme token
 - [ ] `npm run dev` serves a clean page, no console errors
 
 ## Phase 2 — UI shell (static)
