@@ -13,7 +13,7 @@ _Last updated: 2026-06-29_
 - [x] Wire Tailwind v4 (vite plugin + `@import "tailwindcss";` in `index.css`)
 - [x] Strip Vite boilerplate
 - [x] Define brand-red theme token
-- [ ] `npm run dev` serves a clean page, no console errors
+- [x] `npm run dev` serves a clean page, no console errors
 
 ## Phase 2 — UI shell (static)
 - [ ] `main.jsx` + `App.jsx` (Router + 5 routes + provider stub)
