@@ -3,7 +3,7 @@
 Mirrors [context/contact-manager-build-plan.md](context/contact-manager-build-plan.md).
 Tick items off as you complete them. Status legend: `[ ]` todo · `[~]` in progress · `[x]` done.
 
-_Last updated: 2026-06-29_
+_Last updated: 2026-06-30_
 
 ---
 
@@ -16,8 +16,9 @@ _Last updated: 2026-06-29_
 - [x] `npm run dev` serves a clean page, no console errors
 
 ## Phase 2 — UI shell (static)
-- [ ] `main.jsx` + `App.jsx` (Router + 5 routes + provider stub)
-- [ ] `Header.jsx` (red navbar: Home / Add / About)
+- [x] `main.jsx` — mount `<App/>` in React root
+- [x] `App.jsx` (Router + 5 routes + provider stub)
+- [x] `Header.jsx` (red navbar: Home / Add / About)
 - [ ] `ui/Button.jsx`, `ui/TextInput.jsx`, `ui/Spinner.jsx`
 - [ ] `ContactsPage.jsx` + `ContactCard.jsx` (static cards, two-tone heading)
 - [ ] `AddContactPage.jsx` + `EditContactPage.jsx` + `ContactForm.jsx` (static)
