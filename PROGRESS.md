@@ -20,10 +20,10 @@ _Last updated: 2026-06-30_
 - [x] `App.jsx` (Router + 5 routes + provider stub)
 - [x] `Header.jsx` (red navbar: Home / Add / About)
 - [x] `ui/Button.jsx`, `ui/TextInput.jsx`, `ui/Spinner.jsx`
-- [ ] `ContactsPage.jsx` + `ContactCard.jsx` (static cards, two-tone heading)
-- [ ] `AddContactPage.jsx` + `EditContactPage.jsx` + `ContactForm.jsx` (static)
-- [ ] `AboutPage.jsx` + `NotFoundPage.jsx`
-- [ ] All routes render and navigate correctly
+- [x] `ContactsPage.jsx` + `ContactCard.jsx` (static cards, two-tone heading)
+- [x] `AddContactPage.jsx` + `EditContactPage.jsx` + `ContactForm.jsx` (static)
+- [x] `AboutPage.jsx` + `NotFoundPage.jsx`
+- [x] All routes render and navigate correctly
 
 ## Phase 3 — Features
 - [ ] **F1** — Data layer / hybrid storage (`api/contactsApi.js`)
