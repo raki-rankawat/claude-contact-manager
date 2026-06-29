@@ -9,7 +9,7 @@ _Last updated: 2026-06-29_
 
 ## Phase 1 — Init & setup
 - [x] Scaffold Vite React (JS) project
-- [ ] Install deps (`react-router-dom`, `axios`, `lucide-react`, `tailwindcss`, `@tailwindcss/vite`)
+- [x] Install deps (`react-router-dom`, `axios`, `lucide-react`, `tailwindcss`, `@tailwindcss/vite`)
 - [ ] Wire Tailwind v4 (vite plugin + `@import "tailwindcss";` in `index.css`)
 - [ ] Strip Vite boilerplate
 - [ ] Define brand-red theme token
