@@ -19,7 +19,7 @@ _Last updated: 2026-06-30_
 - [x] `main.jsx` — mount `<App/>` in React root
 - [x] `App.jsx` (Router + 5 routes + provider stub)
 - [x] `Header.jsx` (red navbar: Home / Add / About)
-- [ ] `ui/Button.jsx`, `ui/TextInput.jsx`, `ui/Spinner.jsx`
+- [x] `ui/Button.jsx`, `ui/TextInput.jsx`, `ui/Spinner.jsx`
 - [ ] `ContactsPage.jsx` + `ContactCard.jsx` (static cards, two-tone heading)
 - [ ] `AddContactPage.jsx` + `EditContactPage.jsx` + `ContactForm.jsx` (static)
 - [ ] `AboutPage.jsx` + `NotFoundPage.jsx`
